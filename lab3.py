@@ -95,7 +95,7 @@ class TFun(Type):
 
 class Expr:
     pass
-
+#tui muốn thay đổi 
 
 @dataclass(frozen=True)
 class Var(Expr):
